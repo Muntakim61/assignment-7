@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co.com/Xp2fhqv/warner.webp",
+    "player_name": "David Warner",
+    "country": "Australia",
+    "playing_position": "Opening batsman",
+    "batting_hand": "Left-handed",
+    "bowling_hand": "Right-arm leg break",
+    "player_salary": 1050000,
+    "rating": 4.3
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co.com/8xpdPrR/birmingham-england-tamim-iqbal-of-bangladesh-poses-for-a-picture-during-the-bangladesh.webp",
+    "player_name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "playing_position": "Opening batsman",
+    "batting_hand": "Left-handed",
+    "bowling_hand": "Right-arm offbreak",
+    "player_salary": 700000,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co.com/6RsW6pL/2350406.webp",
+    "player_name": "Steve Smith",
+    "country": "Australia",
+    "playing_position": "Top-order batsman",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm leg spin",
+    "player_salary": 1150000,
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co.com/0KN8pMW/wp3051792.webp",
+    "player_name": "Kane Williamson",
+    "country": "New Zealand",
+    "playing_position": "Top-order batsman",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm offbreak",
+    "player_salary": 1100000,
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co.com/2Fq0qGP/rashid-khan.webp",
+    "player_name": "Rashid Khan",
+    "country": "Afghanistan",
+    "playing_position": "Bowler",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm leg spin",
+    "player_salary": 900000,
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co.com/stWTmKW/azam.webp",
+    "player_name": "Babar Azam",
+    "country": "Pakistan",
+    "playing_position": "Top-order batsman",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm offbreak",
+    "player_salary": 1000000,
+    "rating": 4.8
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co.com/Sn7G0Cr/holder.webp",
+    "player_name": "Jason Holder",
+    "country": "West Indies",
+    "playing_position": "All-rounder",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm fast-medium",
+    "player_salary": 920000,
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co.com/T4KJVbV/zshqqyknli5sx3te0g2j.webp",
+    "player_name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playing_position": "All-rounder",
+    "batting_hand": "Left-handed",
+    "bowling_hand": "Left-arm orthodox spin",
+    "player_salary": 850000,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co.com/2YxvrWD/joe.webp",
+    "player_name": "Joe Root",
+    "country": "England",
+    "playing_position": "Top-order batsman",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm offbreak",
+    "player_salary": 950000,
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "img": "https://i.ibb.co.com/28RYcQm/wp7930343.webp",
+    "player_name": "Virat Kohli",
+    "country": "India",
+    "playing_position": "Top-order batsman",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm medium",
+    "player_salary": 1200000,
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "img": "https://i.ibb.co.com/sWLY7pS/boult.webp",
+    "player_name": "Trent Boult",
+    "country": "New Zealand",
+    "playing_position": "Bowler",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Left-arm fast-medium",
+    "player_salary": 875000,
+    "rating": 4.6
+  },
+  {
+    "id": 12,
+    "img": "https://i.ibb.co.com/zb78Bwh/Mahmudullah-2-1024x576.webp",
+    "player_name": "Mahmudullah",
+    "country": "Bangladesh",
+    "playing_position": "Middle-order batsman",
+    "batting_hand": "Right-handed",
+    "bowling_hand": "Right-arm offbreak",
+    "player_salary": 600000,
+    "rating": 4.2
+  }
+]
